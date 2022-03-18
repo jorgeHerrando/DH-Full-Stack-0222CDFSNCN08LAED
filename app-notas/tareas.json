@@ -1,0 +1,8 @@
+[
+  { "titulo": "comer", "estado": "pendiente" },
+  { "titulo": "merendar", "estado": "completado" },
+  { "titulo": "repasar", "estado": "en curso" },
+  { "titulo": "aprender", "estado": "pendiente" },
+  { "titulo": "caminar", "estado": "pendiente" },
+  { "titulo": "nuevaTarea", "estado": "pendiente" }
+]
