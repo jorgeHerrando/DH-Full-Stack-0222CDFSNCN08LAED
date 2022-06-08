@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel="stylesheet" href="/stylesheets/style.css" />
+  </head>
+  <body>
+    <h1>Esto es el detalle de producto con id <%= product.id %></h1>
+    <h2><%= product.name %></h2>
+    <p><%= product.description %></p>
+    <p>Precio: <%=product.price %></p>
+    <button>
+      <a href="/products/edit/<%=product.id %>">Editar producto</a>
+    </button>
+
+    <form
+      action="/products/delete/<%=product.id %>?_method=DELETE"
+      method="POST"
+    >
+      <button type="submit">Borrar producto</button>
+    </form>
+  </body>
+</html>

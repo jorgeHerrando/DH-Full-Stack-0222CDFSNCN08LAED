@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Mayer Leonard",
+    "city": "Kapowsin",
+    "state": "Hawaii",
+    "country": "United Kingdom",
+    "company": "Ovolo",
+    "favoriteNumber": 7
+  },
+  {
+    "id": 2,
+    "name": "Koch Becker",
+    "city": "Johnsonburg",
+    "state": "New Jersey",
+    "country": "Madagascar",
+    "company": "Eventage",
+    "favoriteNumber": 2
+  },
+  {
+    "id": 3,
+    "name": "Lowery Hopkins",
+    "city": "Blanco",
+    "state": "Arizona",
+    "country": "Ukraine",
+    "company": "Comtext",
+    "favoriteNumber": 3
+  },
+  {
+    "id": 4,
+    "name": "Walters Mays",
+    "city": "Glendale",
+    "state": "Illinois",
+    "country": "New Zealand",
+    "company": "Corporana",
+    "favoriteNumber": 6
+  },
+  {
+    "id": 5,
+    "name": "Shaw Lowe",
+    "city": "Coultervillle",
+    "state": "Wyoming",
+    "country": "Ecuador",
+    "company": "Isologica",
+    "favoriteNumber": 2
+  },
+  {
+    "id": 6,
+    "name": "Puckett Heath",
+    "city": "Johnsonburg",
+    "state": "New Jersey",
+    "country": "Virgin Islands (US)",
+    "company": "Eventage",
+    "favoriteNumber": 5
+  },
+  {
+    "id": 7,
+    "name": "Lelia Gates",
+    "city": "Wakarusa",
+    "state": "Maryland",
+    "country": "Montserrat",
+    "company": "Zillan",
+    "favoriteNumber": 4
+  },
+  {
+    "id": 8,
+    "name": "Marci Mcdaniel",
+    "city": "Coultervillle",
+    "state": "Idaho",
+    "country": "Saint Lucia",
+    "company": "Isologica",
+    "favoriteNumber": 2
+  },
+  {
+    "id": 9,
+    "name": "Susanna Ryan",
+    "city": "Glendale",
+    "state": "New Mexico",
+    "country": "American Samoa",
+    "company": "Eventage",
+    "favoriteNumber": 10
+  },
+  {
+    "id": 10,
+    "name": "Madden Key",
+    "city": "Glendale",
+    "state": "New Mexico",
+    "country": "Anguilla",
+    "company": "Ovolo",
+    "favoriteNumber": 10
+  }
+]

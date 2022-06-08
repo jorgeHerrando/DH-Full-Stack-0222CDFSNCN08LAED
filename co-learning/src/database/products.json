@@ -1,0 +1,189 @@
+[
+
+{
+
+
+"id": 3,
+
+
+"name": "bicicleta3",
+
+
+"description": "Descripción bicicleta3",
+
+
+"price": 300,
+
+
+"type": "bici"
+
+},
+
+{
+
+
+"id": 4,
+
+
+"name": "bicicleta4",
+
+
+"description": "Descripción bicicleta4",
+
+
+"price": 400,
+
+
+"type": "bici"
+
+},
+
+{
+
+
+"id": 5,
+
+
+"name": "bicicleta5",
+
+
+"description": "Descripción bicicleta5",
+
+
+"price": 500,
+
+
+"type": "bici"
+
+},
+
+{
+
+
+"id": 6,
+
+
+"name": "bicicleta6",
+
+
+"description": "Descripción bicicleta6",
+
+
+"price": 600,
+
+
+"type": "bici"
+
+},
+
+{
+
+
+"id": 7,
+
+
+"name": "bicicleta7",
+
+
+"description": "Descripción bicicleta7",
+
+
+"price": 700,
+
+
+"type": "bici"
+
+},
+
+{
+
+
+"id": 8,
+
+
+"name": "bicicleta8",
+
+
+"description": "Descripción bicicleta8",
+
+
+"price": 800,
+
+
+"type": "bici"
+
+},
+
+{
+
+
+"id": 9,
+
+
+"name": "bicicleta9",
+
+
+"description": "Descripción bicicleta9",
+
+
+"price": 900,
+
+
+"type": "bici"
+
+},
+
+{
+
+
+"id": 10,
+
+
+"name": "bicicleta10",
+
+
+"description": "Descripción bicicleta10",
+
+
+"price": 1000,
+
+
+"type": "bici"
+
+},
+
+{
+
+
+"id": 11,
+
+
+"name": "bicicleta11",
+
+
+"description": "Descripción bicicleta11",
+
+
+"price": 1100
+
+},
+
+{
+
+
+"id": 12,
+
+
+"name": "Nuevo Producto",
+
+
+"description": "Estamos en un repaso",
+
+
+"type": "Bici",
+
+
+"price": "10231"
+
+}
+]

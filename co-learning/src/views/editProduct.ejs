@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel="stylesheet" href="/stylesheets/style.css" />
+  </head>
+  <body>
+    <h1>Estamos editando el producto con id <%=product.id%></h1>
+
+    <form action="/products/edit/<%=product.id%>?_method=PUT" method="POST">
+      <p>
+        <label for="name">Nombre producto</label>
+        <input
+          id="name"
+          name="name"
+          type="text"
+          value="<%=product.name%>"
+          required
+        />
+      </p>
+      <p>
+        <label for="description">Descripción</label>
+        <input
+          id="description"
+          name="description"
+          type="text"
+          value="<%=product.description%>"
+          required
+        />
+      </p>
+      <p>
+        <label for="price">Precio</label>
+        <input
+          id="price"
+          name="price"
+          type="text"
+          value="<%=product.price%>"
+          required
+        />
+      </p>
+      <p>
+        <label for="type">Tipo de producto</label>
+        <input
+          id="type"
+          name="type"
+          type="text"
+          value="<%=product.type%>"
+          required
+        />
+      </p>
+      <button type="submit">Editar producto</button>
+    </form>
+  </body>
+</html>
